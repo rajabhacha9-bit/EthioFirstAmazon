@@ -1,2 +1,2 @@
 # EthioFirstAmazon
-A very first market place
+A very first marketplace
